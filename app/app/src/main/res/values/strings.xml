@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login</string>
+
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in_short">Iniciar Sesión</string>
+    <string name="error_field_required">Campo requerido</string>
+</resources>
